@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @LUCILEINE
-- 👀 I’m interested in Inteligência Artificial
-- 🌱 I’m currently learning Inteligência Artificial Generativa com Chat GPT e Copilot
-- 💞️ I’m looking to collaborate on transição de carreira do mundo corporativo para a tecnologia
-- 📫 How to reach me e-mail:lucileinecarvalho@gmail.com
-- 😄 Pronouns: Ela/Dela
-- ⚡ Fun fact: Prompts de I.A
-
-<!---
-LUCILEINE/LUCILEINE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<html>
+ <head>
+  <link href="style.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+ </head>
+  <body>
+    <img src="https://avatars.githubusercontent.com/u/137401475?v=4" width="150" class="elemento">
+    <h1>Lucileine</h1>
+    <h2><i class="fas fa-code"></i> Aspirante Dev Full Stack</h2>    
+    <p>Bem vindo à minha página!</p>
+    <a href="https://www.instagram.com/lucileine.carvalho" target="_blank"><i class="fab fa-instagram"></i>Instagram</a>
+    <a href="https://www.tiktok.com/@lucileine_" target="_blank"><i class="fab fa-tiktok"></i>TikTok</a>
+    <a href="https://www.linkedin.com/in/lucileine-carvalho/" target="_blank"><i class="fab fa-linkedin"></i> Linkedin</a>
+  </body>
+</html>
